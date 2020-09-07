@@ -1,0 +1,30 @@
+/* override */
+.navbar-dark .navbar-toggler-icon {
+  background-image: none;
+}
+
+.navbar-toggler-icon .fa-bars {
+  font-size: 27px;
+}
+
+.navbar {
+  background-color: black;
+}
+
+.navbar-brand {
+  color: #62b4c7;
+}
+
+body {
+  background-color: #ccddff;
+}
+
+.text {
+  border-radius: 20px;
+  font-size: 25px;
+}
+
+.fontsize {
+  line-height: 35px;
+  font-size: 25px;
+}
